@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="bitcode">Bitcode Technologies</string>
+    <string name="welcome">Welcome!</string>
+    <string-array name="student_names">
+        <item>Viresh</item>
+        <item>Amrut</item>
+        <item>Prasad</item>
+    </string-array>
+</resources>
